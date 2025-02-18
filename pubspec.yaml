@@ -1,11 +1,11 @@
 name: secure_app_switcher
 description: Apply a safe masking effect to the app screen on the app switcher or task list.
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/arkwycr/secure_app_switcher
 issue_tracker: https://github.com/arkwycr/secure_app_switcher/issues
 
 environment:
-  sdk: ^3.5.4
+  sdk: ^3.1.5
   flutter: '>=3.3.0'
 
 dependencies:
